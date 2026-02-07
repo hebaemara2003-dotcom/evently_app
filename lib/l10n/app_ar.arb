@@ -1,5 +1,55 @@
 {
 "language" : "اللغة" ,
 "english" : "الانجليزية" ,
-"arabic" : "العربية"
+"arabic" : "العربية",
+"theme" : "النمط",
+"dark" : "ليلى",
+"light" : "نهارى",
+"dark_mode" : "الوضع الليلى",
+"logout" : "تسجيل الخروج",
+"home" : "الرئسية",
+"favorite" : "المفضلة",
+"profile" : "الملف الشخصى",
+"login_to_your_account" : "التسجيل الى حسابك ",
+"create_your_account" : "انشاء حسابك",
+"please_inter_your_email" : "من فضلك ادخل ايميلك",
+"inter_your_password":"ادخل كلمة السر",
+"login" : "تسجيل الدخول",
+"do_not_have_an_account":"ليس لديك حساب",
+"sign_up" : "سجل الان ",
+"enter_your_name":"من فضلك ادخل الاسم",
+"please_enter_rePassword":"من فضلك اعد كتابة اكلمة السر",
+"already_have_account":"لدي حساب بالفعل",
+"or" : "او",
+"login_with_google" : "التسجيل باستخدام جوجل ",
+"sign_up_with_google":"تسجيل الخروج باستخدام جوجل",
+"welcome_back":" ✨مرحبا مجددا",
+"all":"الكل",
+"sport":"الرياضة",
+"birthday":"عيد الميلاد",
+"meeting":"الاجتماع",
+"gaming":"الالعاب",
+"workShop":"مكان العمل",
+"book_club":"نادى الكتاب",
+"exhibition":"العادة",
+"holiday":"الاجازة",
+"eating":"الاكل",
+"search_for_event":"البحث عن الحدث",
+"add_event":"اضافة حدث "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
