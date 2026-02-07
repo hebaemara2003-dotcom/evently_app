@@ -1,7 +1,6 @@
 import 'package:evently_app/auth/login/login_screen.dart';
 import 'package:evently_app/auth/register/register_screen.dart';
 import 'package:evently_app/home/tabs/home/add_event/add_event.dart';
-import 'package:evently_app/home/tabs/profile/profile_tab.dart';
 import 'package:evently_app/providers/app_language_provider.dart';
 import 'package:evently_app/providers/app_theme_provider.dart';
 import 'package:evently_app/utils/app_routes.dart';
@@ -21,7 +20,7 @@ void main() {
       ],
       child: MyApp(),
     ),
-  ));
+  );
 }
 
 class MyApp extends StatelessWidget {

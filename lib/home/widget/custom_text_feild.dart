@@ -19,6 +19,7 @@ class CustomTextFeild extends StatelessWidget {
   String? lableText;
 
   TextStyle? lableStyle;
+  int? maxLines;
 
   CustomTextFeild({
     super.key,
@@ -31,11 +32,13 @@ class CustomTextFeild extends StatelessWidget {
     this.hintStyle,
     this.lableText,
     this.lableStyle,
+    this.maxLines
   });
 
   @override
   Widget build(BuildContext context) {
     return TextFormField(
+      maxLines: maxLines ?? 1,
       decoration: InputDecoration(
         enabledBorder: buildDecorationBorder(
           radius: 16,
